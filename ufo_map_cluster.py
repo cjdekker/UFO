@@ -6,7 +6,7 @@ from IPython.display import HTML, display
 
 
 
-def map_all_clusters(df_us,year =''):
+def map_all_clusters(df_us):
     data = df_us.iloc[0:, :]
     data.head()
 
@@ -29,4 +29,4 @@ def map_all_clusters(df_us,year =''):
     us_map.add_child(incidents)
 
     display(us_map)
-    us_map.save("us_map_all_clusters_%s.html"%year)
+    us_map.save("us_map_all_clusters.html")
