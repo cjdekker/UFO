@@ -14,7 +14,7 @@ an.show_freq_by_date(df_us)
 
 df_us_2004 = df_us[df_us['year'] == '2004']
 map_all_clusters(df_us)
-map_all_clusters(df_us,year='2004')
+map_all_clusters(df_us_2004)
 
 
 
