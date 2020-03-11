@@ -1,15 +1,15 @@
 # Verifying UFO Sightings
 ## 1. Overview
-We analyzed UFO sighting dataset which is obtained from Kaggle website.
+We analyzed a UFO sighting dataset obtained from Kaggle.
 
 https://www.kaggle.com/NUFORC/ufo-sightings
 
-This dataset contains over 80,000 reports of UFO sightings from 1906 to the middle of 2014 and it was collected by National UFO Reporting Center (NUFORC). Most of sightings are in United States. Others occured in UK, Canada, Australia or Germany. As we described in our slides, after analysing, it turns out that some "UFO sightings" can be thought as misunderstanding of something other than UFO.
+This dataset contains over 80,000 reports of UFO sightings from 1906 to the middle of 2014. This data was collected by the National UFO Reporting Center (NUFORC). Most of these sightings occured in the United States, but there are some reportings in the UK, Canada, Australia, and Germany. As we discussed in our slides, we were able to find some common causes of false reportings and find a particular event that seemed the most likely to be valid.
 
 ## 2. Contents
-### 2.1. python codes (.py)
-### 2.2 Jupyter notebooks (.ipynb)
-### 2.3 slides (.pdf)
+### 2.1 .py files
+### 2.2 Jupyter notebooks
+### 2.3 slides
 
 ## 3. Required Third-Party Modules
 - numpy 1.17.4
@@ -18,4 +18,4 @@ This dataset contains over 80,000 reports of UFO sightings from 1906 to the midd
 - seaborn 0.9.0
 - nltk 3.2.2 (optional, for word-cloud)
 - wordcloud 1.6.0 (optional, for word-cloud)
-- folium (optional, for visualizing map)
+- folium 0.10.1
