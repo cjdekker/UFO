@@ -16,5 +16,5 @@ This dataset contains over 80,000 reports of UFO sightings from 1906 to the midd
 - matplotlib 2.1.1
 - pandas 0.23.4
 - seaborn 0.9.0
-- nltk 3.2.2
-- wordcloud 1.6.0
+- nltk 3.2.2 (optional, for word-cloud)
+- wordcloud 1.6.0 (optional, for word-cloud)
