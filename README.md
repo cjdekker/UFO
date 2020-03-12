@@ -1,4 +1,4 @@
-# Verifying UFO Sightings
+# Assessing Validity of UFO Sightings
 ## 1. Overview
 We analyzed a UFO sighting dataset obtained from Kaggle.
 
