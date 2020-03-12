@@ -20,9 +20,9 @@ This dataset contains over 80,000 reports of UFO sightings from 1906 to the midd
 - UFO_analysis_visualization.ipynb  
   Latest version of notebook
 - UFO_analysis_v2.ipynb  
-  Old version
+  (Old version)
 - UFO_data_analysis.ipynb  
-  Old version
+  (Old version)
 ### 2.3 Presentation slides
 
 ## 3. Required Third-Party Modules
