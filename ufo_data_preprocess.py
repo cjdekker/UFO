@@ -63,7 +63,5 @@ def data_preprocess(filename):
         new_datetime.append(day)
     df['monADayAYear'] = new_datetime
 
-    df_us = df[df['country'] == 'us']
-
-    return df_us
+    return df
 
